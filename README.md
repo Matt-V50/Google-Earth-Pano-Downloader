@@ -42,6 +42,12 @@
   </p>
 </div>
 
+<div align="center">
+  <H2> !!Importance !!</H2>
+  <p algin="center"> Inster <a href="https://greasyfork.org/en/scripts/433051-trusted-types-helper">Truster</a> before using it</p>
+  
+</div>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
