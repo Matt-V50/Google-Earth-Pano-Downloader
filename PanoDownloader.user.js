@@ -190,7 +190,7 @@ j < 32
   }
 
   $("#download").on("click", () => {
-    let key = window.location.href.match(/%212s(.*)/)[1];
+    let key = window.location.href.match(/!2s(.*)/)[1];
     if ($("#streetview-preview").length) {
       let images = getStreetViewPano(key);
       let spaced = [];
